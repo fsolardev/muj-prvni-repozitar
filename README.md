@@ -1,2 +1,2 @@
-# muj-prvni-repozitarToto je můj první repo v Git
+# Toto je moje první repozítář na GitHubu
 Další přidaný text pro třetí úkol.
