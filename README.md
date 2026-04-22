@@ -1,1 +1,1 @@
-# muj-prvni-repozitar
+# muj-prvni-repozitarToto je můj první repo v Git
